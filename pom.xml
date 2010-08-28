@@ -162,7 +162,7 @@
             -->
             <dependencyManagement>
                 <dependencies>
-
+                          
                     <!-- org.jboss.jbossas -->
                     <dependency>
                         <groupId>org.jboss.jbossas</groupId>
